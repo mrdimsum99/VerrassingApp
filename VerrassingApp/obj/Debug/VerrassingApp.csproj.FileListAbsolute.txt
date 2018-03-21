@@ -8,3 +8,13 @@ c:\projecten\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.csproj.Generate
 c:\projecten\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.csproj.CoreCompileInputs.cache
 c:\projecten\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.exe
 c:\projecten\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.pdb
+C:\github\VerrassingApp\VerrassingApp\bin\Debug\VerrassingApp.exe.config
+C:\github\VerrassingApp\VerrassingApp\bin\Debug\VerrassingApp.exe
+C:\github\VerrassingApp\VerrassingApp\bin\Debug\VerrassingApp.pdb
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.csprojResolveAssemblyReference.cache
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.Form1.resources
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.Properties.Resources.resources
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.csproj.GenerateResource.cache
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.csproj.CoreCompileInputs.cache
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.exe
+C:\github\VerrassingApp\VerrassingApp\obj\Debug\VerrassingApp.pdb

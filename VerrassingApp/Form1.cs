@@ -24,7 +24,7 @@ namespace VerrassingApp
 
         private void btnTeam2_Click(object sender, EventArgs e)
         {
-            textBox2.Text = "";
+            textBox2.Text = "ging viel een eekhoorn uit de boom";
         }
 
         private void btnTeam3_Click(object sender, EventArgs e)
