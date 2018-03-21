@@ -19,7 +19,7 @@ namespace VerrassingApp
 
         private void btnTeam1_Click(object sender, EventArgs e)
         {
-            textBox1.Text = "";
+            textBox1.Text = "een prins die bob heet.";
         }
 
         private void btnTeam2_Click(object sender, EventArgs e)
